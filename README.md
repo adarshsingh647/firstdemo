@@ -1,4 +1,4 @@
 # firstdemo
 This is my first Git Repository
 <br>
-Author - Adarsh Singh
+Author - Adarsh (Rajput)
